@@ -1,4 +1,4 @@
-# SPSN: Superpixel Prototype Sampling Network for RGB-D Salient Object Detection (ECCV, 2022)
+# SPSN: Superpixel Prototype Sampling Network for RGB-D Salient Object Detection (ECCV 2022)
 
 Authors: [Minhyeok Lee](https://github.com/Hydragon516), [Chaewon Park](https://github.com/codnjsqkr), [Suhwan Cho](https://github.com/suhwan-cho), Sangyoun Lee
 
