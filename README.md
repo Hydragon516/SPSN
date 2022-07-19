@@ -40,6 +40,50 @@ When training is complete, the prediction results for the test set are saved in 
 ## Result
 <img align="center" src="./images/result.png" width="600px" />
 
+./log directory structure
+```
+.
+├── root
+└── log/
+    └── 2022-xx-xx xx:xx:xx/
+        ├── model/
+        │   └── best_model.pth
+        ├── result/
+        │   ├── gt        # ground truth images/
+        │   │   ├── NJU2K
+        │   │   ├── NLPR
+        │   │   ├── DES
+        │   │   ├── SIP
+        │   │   └── STERE
+        │   ├── pred      # predicted mask images (only mask)/
+        │   │   ├── NJU2K
+        │   │   ├── NLPR
+        │   │   ├── DES
+        │   │   ├── SIP
+        │   │   └── STERE
+        │   └── total     # includes RGB, depth, GT, superpixel sampling maps, prediction mask, and more/
+        │       ├── NJU2K
+        │       ├── NLPR
+        │       ├── DES
+        │       ├── SIP
+        │       └── STERE
+        └── train/
+            └── config.py
+```
+
+An example of the resulting image is shown below.
+
+<img align="center" src="./images/test.jpg"/>
+
+* A : RGB image
+* B : Depth map
+* C : Pred map
+* D : GT
+* E : Pred superpixel map from RGB
+* F : GT superpixel map from RGB
+* G : Pred superpixel map from depth
+* H : GT superpixel map from depth
+
 The prediction mask results for our proposed model can be found [here](https://drive.google.com/file/d/1QjgsNz7S21yNIbCsUW3zINmivxXr6vK0/view?usp=sharing).
 
 ## Citation
