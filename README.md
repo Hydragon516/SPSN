@@ -10,6 +10,8 @@ Authors: [Minhyeok Lee](https://github.com/Hydragon516), [Chaewon Park](https://
 
 This repository provides code for paper "SPSN: Superpixel Prototype Sampling Network for RGB-D Salient Object Detection" accepted by the ECCV 2022 conference.
 
+Our paper can be found [[arXiv]](https://arxiv.org/abs/2207.07898)
+
 <img align="center" src="./images/main.png" width="800px" />
 
 ## Prepared Datasets
