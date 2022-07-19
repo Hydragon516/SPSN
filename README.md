@@ -1,11 +1,5 @@
 # SPSN: Superpixel Prototype Sampling Network for RGB-D Salient Object Detection (ECCV 2022)
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/spsn-superpixel-prototype-sampling-network/rgb-d-salient-object-detection-on-sip)](https://paperswithcode.com/sota/rgb-d-salient-object-detection-on-sip?p=spsn-superpixel-prototype-sampling-network)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/spsn-superpixel-prototype-sampling-network/rgb-d-salient-object-detection-on-des)](https://paperswithcode.com/sota/rgb-d-salient-object-detection-on-des?p=spsn-superpixel-prototype-sampling-network)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/spsn-superpixel-prototype-sampling-network/rgb-d-salient-object-detection-on-nju2k)](https://paperswithcode.com/sota/rgb-d-salient-object-detection-on-nju2k?p=spsn-superpixel-prototype-sampling-network)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/spsn-superpixel-prototype-sampling-network/rgb-d-salient-object-detection-on-nlpr)](https://paperswithcode.com/sota/rgb-d-salient-object-detection-on-nlpr?p=spsn-superpixel-prototype-sampling-network)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/spsn-superpixel-prototype-sampling-network/rgb-d-salient-object-detection-on-stere)](https://paperswithcode.com/sota/rgb-d-salient-object-detection-on-stere?p=spsn-superpixel-prototype-sampling-network)
-
 Authors: [Minhyeok Lee](https://github.com/Hydragon516), [Chaewon Park](https://github.com/codnjsqkr), [Suhwan Cho](https://github.com/suhwan-cho), Sangyoun Lee
 
 This repository provides code for paper "SPSN: Superpixel Prototype Sampling Network for RGB-D Salient Object Detection" accepted by the ECCV 2022 conference.
