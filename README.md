@@ -49,19 +49,19 @@ When training is complete, the prediction results for the test set are saved in 
         ├── model/
         │   └── best_model.pth
         ├── result/
-        │   ├── gt        # ground truth images/
+        │   ├── gt/        # ground truth images
         │   │   ├── NJU2K
         │   │   ├── NLPR
         │   │   ├── DES
         │   │   ├── SIP
         │   │   └── STERE
-        │   ├── pred      # predicted mask images (only mask)/
+        │   ├── pred/      # predicted mask images (only mask)
         │   │   ├── NJU2K
         │   │   ├── NLPR
         │   │   ├── DES
         │   │   ├── SIP
         │   │   └── STERE
-        │   └── total     # includes RGB, depth, GT, superpixel sampling maps, prediction mask, and more/
+        │   └── total/     # includes RGB, depth, GT, superpixel sampling maps, prediction mask, and more
         │       ├── NJU2K
         │       ├── NLPR
         │       ├── DES
