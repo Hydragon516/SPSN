@@ -15,7 +15,7 @@ Our paper can be found [[arXiv]](https://arxiv.org/abs/2207.07898)
 <img align="center" src="./images/main.png" width="800px" />
 
 ## Prepared Datasets
-Download the train and test dataset from [Google Drive](https://drive.google.com/file/d/17Ee2l1837HkHR8EGoR4u1Be3v_qliXj0/view?usp=sharing) and save it at your workspace.
+Download the train and test dataset from [Google Drive](https://drive.google.com/file/d/17Ee2l1837HkHR8EGoR4u1Be3v_qliXj0/view?usp=sharing).
 
 ## Requirements
 For the superpixel algorithm we use [fast_slic](https://github.com/Algy/fast-slic). You can install it like this:
@@ -84,7 +84,7 @@ An example of the resulting image is shown below.
 * G : Pred superpixel map from depth
 * H : GT superpixel map from depth
 
-The prediction mask results for our proposed model can be found [here](https://drive.google.com/file/d/1QjgsNz7S21yNIbCsUW3zINmivxXr6vK0/view?usp=sharing).
+The prediction mask results of our proposed model can be found [here](https://drive.google.com/file/d/1QjgsNz7S21yNIbCsUW3zINmivxXr6vK0/view?usp=sharing).
 
 ## Citation
 TBD
