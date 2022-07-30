@@ -242,11 +242,11 @@ class Prototype_Sampler_Network(nn.Module):
         graph_prototype = self.conv1(graph_prototype)
         graph_prototype = graph_prototype.max(dim=-1, keepdim=False)[0]
 
-        graph_prototype = get_graph_feature(prototype_for_graph, k=10)
+        graph_prototype = get_graph_feature(graph_prototype, k=10)
         graph_prototype = self.conv2(graph_prototype)
         graph_prototype = graph_prototype.max(dim=-1, keepdim=False)[0]
 
-        graph_prototype = get_graph_feature(prototype_for_graph, k=10)
+        graph_prototype = get_graph_feature(graph_prototype, k=10)
         graph_prototype = self.conv3(graph_prototype)
         graph_prototype = graph_prototype.max(dim=-1, keepdim=False)[0]
         
