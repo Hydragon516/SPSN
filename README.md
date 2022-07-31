@@ -87,4 +87,11 @@ An example of the resulting image is shown below.
 The prediction mask results of our proposed model can be found [here](https://drive.google.com/file/d/1QjgsNz7S21yNIbCsUW3zINmivxXr6vK0/view?usp=sharing).
 
 ## Citation
-TBD
+```
+@article{lee2022spsn,
+  title={SPSN: Superpixel Prototype Sampling Network for RGB-D Salient Object Detection},
+  author={Lee, Minhyeok and Park, Chaewon and Cho, Suhwan and Lee, Sangyoun},
+  journal={arXiv preprint arXiv:2207.07898},
+  year={2022}
+}
+```
