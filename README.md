@@ -95,7 +95,3 @@ The prediction mask results of our proposed model can be found [here](https://dr
   year={2022}
 }
 ```
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Hydragon516/SPSN&type=Date)](https://star-history.com/#Hydragon516/SPSN&Date)
